@@ -1,0 +1,8 @@
+Code Review for JustEjay
+
+Upon cloning and running the program it said there were build errors and threw the exception (System.InvalidOperationException: 'The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.') This is probably due to the computer i'm running it on and the database needing tweaking on my end, not the program itself. 
+
+I liked the simple idea of using the class library for error handling in the program and I think I will use that in the future. After looking at all the forms within the program I think that they are all well designed and easy to follow for users. The options you provided for users to sort and filter the data are well thoughtout and provide the user with a variety of options to sort and filter the data.
+
+The code itself is well commented and I can follow along easily which I appreciate. You were able to use the query builder to pass variables which is something I struggled with on mine even with Mr. Thompsons help. I will try it again in the future with this as a reference. 
+
