@@ -1,0 +1,14 @@
+The code compiles with no issues and populates the datagrid with all 50 rows upon startup.
+The code is very readable with comments applied consistently to all methods.
+
+I found no redundant or dead code. I tried out all functions and did not run into any exception errors.
+
+On the insert data form I noticed that the user has to update all fields in order to update any one field.
+This is because all the parsing happens at once on submit button click event.
+I wonder if doing a check for a !empty string before tryparse would make it so only the fields with input would be updated.
+
+I like your edit row implementation how it brings up a new form with all the field info filled out. It has good input validation.
+Especially with the keypress events only allowing certain inputs. I need to implement that from now on.
+
+Overall, I like the way you handled this solution. I tried too hard to spruce up my interface with panels that hide or become active depending
+on the type of filtering being done. I did this to keep everything to one form. In hindsight it made navigating much more confusing. 
