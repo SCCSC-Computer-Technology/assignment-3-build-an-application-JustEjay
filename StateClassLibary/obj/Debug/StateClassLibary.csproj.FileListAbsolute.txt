@@ -1,0 +1,7 @@
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\obj\Debug\StateClassLibary.csproj.AssemblyReference.cache
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\obj\Debug\StateClassLibary.csproj.CoreCompileInputs.cache
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\bin\Debug\StateClassLibary.dll.config
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\bin\Debug\StateClassLibary.dll
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\bin\Debug\StateClassLibary.pdb
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\obj\Debug\StateClassLibary.dll
+C:\Users\ThayGuyEjay\source\repos\StateClassLibary\obj\Debug\StateClassLibary.pdb
